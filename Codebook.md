@@ -8,7 +8,7 @@ This data is obtained from "Human Activity Recognition Using Smartphones Data Se
 
 The data set used can be downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. 
 
-##Input Data Set
+<b>Input DataSet</b>
 
 The input data containts the following data files:
 
